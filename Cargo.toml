@@ -1,4 +1,4 @@
-[workspace]
+#[workspace]
 members = [
   "futures",
   "futures-core",
